@@ -15,9 +15,9 @@ news: true
 social: true
 ---
 
-Hi, I am a PhD student in [machine learning lab](https://mllabiisc.github.io/) under [Prof. Chiranjib Bhattacharya](https://www.csa.iisc.ac.in/~chiru/) in [CSA dept.](https://csa.iisc.ac.in), [IISc](https://iisc.ac.in) . 
+I am a PhD student in [machine learning lab](https://mllabiisc.github.io/) under [Prof. Chiranjib Bhattacharya](https://www.csa.iisc.ac.in/~chiru/) in [CSA dept.](https://csa.iisc.ac.in), [IISc](https://iisc.ac.in) . 
 
-I am interested in multi-modal perception systems, deep learning for natural language and computer code.  
+I am interested in multi-modal perception systems as well as deep learning for natural language and computer code.  
 My current interest is creating behavioral learning models for Social Robots to be used in autism education, and in general, other neuro-developmental disorders.
 
 Detailed information can be found on my [curriculum vitae](assets/pdf/cv.pdf).
