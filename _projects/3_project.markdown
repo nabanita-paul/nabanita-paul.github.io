@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: /assets/img/7.jpg
-redirect: https://unsplash.com
+title: TSAR
+description: Teaching Assistance through Socially Assistive Robotics
+img: /assets/img/tsar.png
+redirect: https://teaching-through-sar.github.io/
 importance: 3
 ---
 

@@ -1,9 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: /assets/img/3.jpg
-importance: 2
+title: ethics-net
+description: Fake News Detection using Journalism Ethics (Course Project)
+img: /assets/img/fake-news.png
+redirect: https://github.com/nabanita-/ethics-net
+importance: 4
 ---
 
 Every project has a beautiful feature showcase page.
